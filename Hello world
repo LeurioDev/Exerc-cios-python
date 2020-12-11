@@ -1,1 +1,26 @@
-print('Hello world!')
+from time import sleep
+print('==Hello world!==')
+print('H')
+sleep(0.5)
+print(' E')
+sleep(0.5)
+print('  L')
+sleep(0.5)
+print('   L')
+sleep(0.5)
+print('    O')
+sleep(0.5)
+print('')
+print('W')
+sleep(0.5)
+print(' O')
+sleep
+print('  R')
+sleep
+print('   L')
+sleep
+print('    D')
+sleep
+print('     !')
+sleep
+print('== HELLO WORLD! ==')
